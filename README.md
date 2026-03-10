@@ -27,7 +27,7 @@ Next-Gen Traffic Management leverages Python and OpenCV to detect and analyze li
 | Language         | Python 3.x        |
 | Computer Vision  | OpenCV            |
 | Image Processing | NumPy             |
-| Visualization    | OpenCV GUI / Matplotlib |
+| Visualization    | OpenCV GUI  |
 
 ---
 
@@ -40,9 +40,6 @@ Next-Gen-Traffic-Management/
 ├── detector.py              # Vehicle detection logic
 ├── signal_controller.py     # Adaptive signal timing engine
 ├── utils.py                 # Helper functions
-│
-├── assets/                  # Sample videos / test footage
-│   └── traffic_sample.mp4
 │
 ├── output/                  # Processed output frames/videos
 │
@@ -106,7 +103,7 @@ Video Feed → Frame Preprocessing → Vehicle Detection → Density Estimation
 
 ## 📷 Demo
 
-> *(Add screenshots or a GIF of your system in action here)*
+> ![Project Demo](demo.png)
 
 ---
 

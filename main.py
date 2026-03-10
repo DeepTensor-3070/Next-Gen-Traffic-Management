@@ -2,7 +2,6 @@ import cv2
 import serial
 import time
 
-# Change port if needed
 arduino = serial.Serial('/dev/ttyACM0', 9600)
 time.sleep(2)
 
