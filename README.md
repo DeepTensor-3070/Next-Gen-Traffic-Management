@@ -103,7 +103,7 @@ Video Feed → Frame Preprocessing → Vehicle Detection → Density Estimation
 
 ## 📷 Demo
 
-> ![Project Demo](demo.png)
+> ![Project Demo](demo.jpeg)
 
 ---
 
